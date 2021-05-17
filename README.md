@@ -1,3 +1,11 @@
+basic materal:
+jest
+https://github.com/testing-library/jest-dom#tobechecked
+
+role definition
+https://www.w3.org/TR/wai-aria/#role_definitions
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
